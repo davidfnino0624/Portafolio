@@ -212,6 +212,13 @@ footer {
     background-color: #2980b9;
 }
 
+#fototech {
+    border: dashed;
+    border-color: #661111;
+    width: 500px;
+    height: auto;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     nav {
